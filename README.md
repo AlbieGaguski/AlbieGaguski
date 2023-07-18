@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>Using Nessus Essentials to Analyze and Remediate Vulnerable Assets</b>
+  - [Vulnerability Management Lab](https://github.com/AlbieGaguski/NessusVulManage/tree/main)
+- <b>Splunk> SIEM Masterclass</b>
 
 <h2>📜 Certifications</h2>
 
