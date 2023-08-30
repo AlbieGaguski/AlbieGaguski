@@ -10,6 +10,7 @@
 
 - [Google Cybersecurity Certificate](https://www.credly.com/badges/bea17706-dcc6-4f96-9b75-4eb32711925c/linked_in_profile)
 - Comptia A+ 1101
+- ISC2 CC (In Progress, currently Associate)
 
 
 <h2> 🤳 Connect with me:</h2>
