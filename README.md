@@ -4,7 +4,8 @@
 
 - <b>Using Nessus Essentials to Analyze and Remediate Vulnerable Assets</b>
   - [Vulnerability Management Lab](https://github.com/AlbieGaguski/NessusVulManage/tree/main)
-- <b>Splunk> SIEM Masterclass</b>
+- <b>Analyzing Network Traffic with TCPDump</b>
+  - [TCPDump Lab](https://github.com/AlbieGaguski/Analyzing-Network-Traffic-with-TCPDump/tree/main)
 
 <h2>📜 Certifications</h2>
 
