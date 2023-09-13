@@ -4,7 +4,7 @@
 
 - <b>AWS IAM Security Using CloudTrail, CloudFormation and Amazon Athena</b>
   - [AWS IAM Detection](https://github.com/AlbieGaguski/AWS-IAM-Security-Workshop/tree/main)
--  <b>Using Nessus Essentials to Analyze and Remediate Vulnerable Assets</b>
+- <b>Using Nessus Essentials to Analyze and Remediate Vulnerable Assets</b>
   - [Vulnerability Management Lab](https://github.com/AlbieGaguski/NessusVulManage/tree/main)
 - <b>Analyzing Network Traffic with TCPDump</b>
   - [TCPDump Lab](https://github.com/AlbieGaguski/Analyzing-Network-Traffic-with-TCPDump/tree/main)
