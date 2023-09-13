@@ -1,8 +1,10 @@
 <h1>Hello, I'm Albie! <a href="[https://www.linkedin.com/in/joshmadakor/](https://www.linkedin.com/in/albert-gaguski-1b80bb23a/)">Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cloud Cybersecurity Projects:</h2>
 
-- <b>Using Nessus Essentials to Analyze and Remediate Vulnerable Assets</b>
+- <b>AWS IAM Security Using CloudTrail, CloudFormation and Amazon Athena</b>
+  - [AWS IAM Detection](https://github.com/AlbieGaguski/AWS-IAM-Security-Workshop/tree/main)
+-  <b>Using Nessus Essentials to Analyze and Remediate Vulnerable Assets</b>
   - [Vulnerability Management Lab](https://github.com/AlbieGaguski/NessusVulManage/tree/main)
 - <b>Analyzing Network Traffic with TCPDump</b>
   - [TCPDump Lab](https://github.com/AlbieGaguski/Analyzing-Network-Traffic-with-TCPDump/tree/main)
@@ -11,7 +13,7 @@
 
 - [Google Cybersecurity Certificate](https://www.credly.com/badges/bea17706-dcc6-4f96-9b75-4eb32711925c/linked_in_profile)
 - Comptia A+ 1101
-- ISC2 CC (In Progress, currently Associate)
+- AWS Cloud Solution Architect (In Progress)
 
 
 <h2> 🤳 Connect with me:</h2>
