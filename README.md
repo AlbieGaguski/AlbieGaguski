@@ -13,6 +13,8 @@
 
 - [Google Cybersecurity Certificate](https://www.credly.com/badges/bea17706-dcc6-4f96-9b75-4eb32711925c/linked_in_profile)
 - Comptia A+ 1101
+- [Linux and SQL](https://www.coursera.org/account/accomplishments/certificate/ES7Z7SV9MHDX)
+- [Automate Cybersecurity Tasks with Python](https://www.coursera.org/account/accomplishments/certificate/JKNCDNNYW2GS)
 - AWS Cloud Solution Architect (In Progress)
 
 
