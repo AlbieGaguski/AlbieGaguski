@@ -16,6 +16,9 @@
 - [Linux and SQL](https://www.coursera.org/account/accomplishments/certificate/ES7Z7SV9MHDX)
 - [Automate Cybersecurity Tasks with Python](https://www.coursera.org/account/accomplishments/certificate/JKNCDNNYW2GS)
 - AWS Cloud Solution Architect (In Progress)
+- FEMA National Incident Management Systems (NIMS) ICS-100
+- CompTIA Security+ (Expected 11/23)
+- Qualys Vulnerability Management
 
 
 <h2> 🤳 Connect with me:</h2>
