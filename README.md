@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Cloud Cybersecurity Projects:</h2>
 
+- <b>Using AWS CLI and IaC to configure a secure AWS environment with Terraform<b/>
+  - [AWS IaC Project Code](https://github.com/AlbieGaguski/AWSIaCSecure/tree/main)
 - <b>AWS IAM Security Using CloudTrail, CloudFormation and Amazon Athena</b>
   - [AWS IAM Detection](https://github.com/AlbieGaguski/AWS-IAM-Security-Workshop/tree/main)
 - <b>Using Nessus Essentials to Analyze and Remediate Vulnerable Assets</b>
